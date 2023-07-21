@@ -1,8 +1,5 @@
 ![Header](./github-header-image.png)
 
-
-### Hi there 👋
-
 🔭 I’m currently working on completing a Full Stack Python Bootcamp <br>
 🌱 I’m currently learning Python and Django
 

@@ -1,4 +1,4 @@
-![Header](./"C:\Users\aroma\Downloads\github-header-image.png")
+![Header](./"github-header-image.png")
 
 
 ### Hi there 👋

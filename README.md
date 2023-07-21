@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+![Header](./github-header-image.png)
 
 🔭 I’m currently working on completing a Full Stack Python Bootcamp <br>
 🌱 I’m currently learning Python and Django

@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on completing a Full Stack Python Bootcamp
-🌱 I’m currently learning Django
+🔭 I’m currently working on completing a Full Stack Python Bootcamp <br>
+🌱 I’m currently learning Python and Django
 
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
